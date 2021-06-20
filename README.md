@@ -4,4 +4,4 @@ Get 100 points to win. If you roll a 1, you lose the chance and your opponent ro
 
 # live-demo
 
-[Live demo]()
+[Live demo](https://throw-a-dice.netlify.app/)
